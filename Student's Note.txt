@@ -1,0 +1,8 @@
+Penerapan javascript pada website saya kali ini agar, terlihat hidup
+atau menarik saat user scrolling website dengan menerapkan method window scroll saya
+dapat memanipulasi gambar yang ada agar bisa menyusaikan kondisi atau opacity serta animasi yang diberikan
+
+juga saat arrow button di klik dengan menggunkan href maka langsung ke page selanjutnya ini juga karena scroll-behaviour yang 
+di setting smooth
+
+terimakasih
